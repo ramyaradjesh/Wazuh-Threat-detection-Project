@@ -4,8 +4,8 @@
 | Machine | OS | Role | IP |
 |---|---|---|---|
 | Ubuntu 1 | Ubuntu 22.04 | Wazuh Manager + Dashboard | 192.168.110.x |
-| Ubuntu 2 | Ubuntu 22.04 | Wazuh Agent + DVWA + MariaDB | 192.168.110.143 |
-| Kali Linux | Kali 2024 | Attacker Simulation | 192.168.110.131 |
+| Ubuntu 2 | Ubuntu 22.04 | Wazuh Agent + DVWA + MariaDB | 192.168.110.x |
+| Kali Linux | Kali 2024 | Attacker Simulation | 192.168.110.x |
 
 ---
 
